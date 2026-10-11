@@ -1,3 +1,13 @@
 # Meu repositório de exercícios
 
-Este repositório contém todos os exercícios que eu fiz enquanto estudei na Trybe ☑!
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _Gabriel Hilarion_ (www.linkedin.com/in/gabriel-hilarion-de-faria-reis) enquanto estudava na [Trybe] (https://www.betrybe.com/) 🚀
+
+## Fundamentos do Desenvolvimento Web ✅
+
+##### Unix, Shell & Git
+
+# FRONT END
+
+Nesse módulo será tratado sobre 'formulários HTML', 'CSS Flexbox' e a como utilizar bibliotecas externas de JavaSript.
+
+# Seção - HTML e CSS
