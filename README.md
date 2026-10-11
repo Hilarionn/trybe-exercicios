@@ -6,8 +6,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Unix, Shell & Git
 
-# FRONT END
+Nesse módulo tratamos sobre funcionamento do Shell, Git e Github, entendendo conceitos, autenticação, segurança, branches e boas práticas.
+
+#### FRONT END
 
 Nesse módulo será tratado sobre 'formulários HTML', 'CSS Flexbox' e a como utilizar bibliotecas externas de JavaSript.
 
-# Seção - HTML e CSS
+##### Seção - HTML e CSS
