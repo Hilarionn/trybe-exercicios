@@ -1,0 +1,39 @@
+
+
+        h1{
+            color: orange;
+        }
+        h2 {
+            color: green;
+            font-size: 2em; /*Significa que terá 2x o tamanho do body*/
+        }
+        body {
+            background-color: #f3de97;
+        
+            font-size: 20px;
+        }
+
+        #extinct-specie {
+            background-color: rgb(240, 128, 128); /*Existem várias maneiras de utilizar cores no CSS*/
+        }
+
+        #description {
+            color: orange;
+        }
+
+        .list-style{    /*Quando adicionamos um stile pra uma classe, diferente do ID que colocamos a #, iniciamos com '.'*/
+            background-color: lightblue;
+            font-weight: bold;
+            color: green;
+            font-style: italic;
+            line-height: 40px;
+            text-align: center;
+            text-decoration: underline;
+                }
+        #ul{
+            background-color: aliceblue;
+        }
+
+        p{
+            font-family: cursive, Helvetica, sans-serif; /*Se você escolher a família, escolherá a fonte do computador da pessoa, a não ser que você especifique qual quer utilizar. Você pode escolher fontes secundárias*/
+        }
