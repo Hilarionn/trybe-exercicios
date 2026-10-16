@@ -1,0 +1,15 @@
+.img{
+    width: 500px;
+}
+
+.cavalo-marinho{
+    color: blue;
+}
+
+.paragrafos{
+    background-color: rgb(240, 240, 240);
+    width:80%;
+  /*  width: 80%; Você também pode definir de maneira dinâmica a largura.*/
+  height: 350px;
+  overflow: auto; /*O overflow impede que o texto que excede a altura do bloco sobreponha o conteúdo de baixo. ele "auto" permite um Scroll. Você pode usar tanto vertical quanto horizontal, overflow-x e overflow-y*/
+}
