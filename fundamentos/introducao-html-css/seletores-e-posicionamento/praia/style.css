@@ -1,0 +1,47 @@
+body{
+    font-family: "Comic Sans MS", cursive;
+    color: rgb(3, 174, 213);
+}
+
+#praia{
+    width: 450px;
+    position: absolute; /*Position Absolute ela ocupa na frente de todos os elementos*/
+    top: 20px;
+    left: 10px;
+    z-index: 1;
+}
+
+#perfil{
+    width: 250px;
+    position: absolute;
+    top: 27px;
+    left: 80px;
+    z-index: 2;
+}
+
+#oculos{
+    width: 100px;
+    position: absolute;
+    z-index: 3;
+    top: 95px;
+    left: 165px;
+}
+
+h1{
+    position: absolute;
+    z-index: 4;
+    left: 30px;
+    position: fixed; /*Extremamente interessante para MENUS*/
+}
+
+#song{
+    z-index: 4;
+    position: absolute;
+    top: 300px;
+}
+
+.coqueiro{
+    width: 50px;
+    float: left;
+    margin-right: 10px;
+}
