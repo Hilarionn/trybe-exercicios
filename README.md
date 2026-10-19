@@ -1,4 +1,4 @@
-# Meu repositório de exercícios
+# Meu repositório de exercícios ✅
 
 Este repositório reúne as atividades e os exercícios realizados por **Gabriel Hilarion** durante o curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/). 🚀
 
