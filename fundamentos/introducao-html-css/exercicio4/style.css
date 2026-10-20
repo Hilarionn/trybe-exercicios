@@ -20,6 +20,7 @@ h1, p {
 
 li:hover{
     background-color: lightblue;
+    transition: background-color 0.9s ease;
 }
 
 li:active{
@@ -28,4 +29,9 @@ li:active{
 
 ol, ul {
     list-style: none;
+}
+
+li:focus{
+    border-color: #0066cc;
+    outline: 2px solid #0066cc;
 }
