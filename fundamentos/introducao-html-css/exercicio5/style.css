@@ -30,6 +30,12 @@ div:hover{
     text-align: center;
 }
 
+.escura{
+    background-color: green;
+        height: 50px;
+        text-align: center;
+}
+
 .clara{
     background-color: antiquewhite;
         height: 30px;
