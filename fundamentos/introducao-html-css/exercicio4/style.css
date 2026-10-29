@@ -13,19 +13,19 @@ No ‘style.css’, adicione a propriedade ‘list-style: none’ para ambas as 
 
 
 
-
 h1, p {
     text-align: center;
 }
 
-li:hover{
-    background-color: lightblue;
+ul:hover, ol:hover{
+    background-color: aqua;
 }
 
 li:active{
-    color: green;
+    font-family: sans-serif, Helvetica;
+    font-size: 20px;
 }
 
-ol, ul {
+li {
     list-style: none;
 }
