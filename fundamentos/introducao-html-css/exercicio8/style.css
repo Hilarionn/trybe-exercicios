@@ -1,0 +1,85 @@
+
+/* Configurações gerais */
+body {
+    background-color: lightslategray;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px 40px;
+}
+
+/* Cabeçalho */
+h1 {
+    text-align: center;
+    font-family: monospace;
+    color: darkblue;
+}
+
+h2 {
+    color: darkblue;
+    text-align: left;
+}
+
+/* Título e imagem */
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.titulo h2 {
+    flex: 1;
+}
+
+.titulo img {
+    height: 300px;
+    border-radius: 8px;
+}
+
+/* Conteúdo principal */
+.conteudo {
+    display: flex;
+    align-items: flex-start;
+    gap: 60px;
+}
+
+/* Artigo */
+.artigo {
+    flex: 3;
+    line-height: 1.6;
+}
+
+/* Navegação */
+nav {
+    flex: 1;
+    min-width: 220px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+}
+
+nav h3 {
+    color: darkblue;
+}
+
+nav li {
+    margin-bottom: 12px;
+}
+
+nav a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Rodapé */
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid darkblue;
+}
